@@ -1,0 +1,16 @@
+{
+  "name": "victoria-birthday-greeting",
+  "version": "1.0.0",
+  "description": "Interactive birthday greeting experience",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["birthday", "greeting", "interactive"],
+  "author": "Divine",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
